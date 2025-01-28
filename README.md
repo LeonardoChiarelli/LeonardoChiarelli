@@ -18,3 +18,10 @@ Sou um desenvolvedor apaixonado por tecnologia e software, com foco em **desenvo
 - **Frameworks e Bibliotecas**: Spring, JUnit, Mockito  
 - **Ferramentas de Desenvolvimento**: IntelliJ IDEA, Git, Docker  
 - **Outros conhecimentos**: Testes de software, APIs,
+
+---
+
+## 📫 Contato
+
+- **E-mail**: *devleochiarelli@gmail.com*
+- **LinkedIn**: *www.linkedin.com/in/leonardo-chiarelli*

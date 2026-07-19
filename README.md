@@ -2,15 +2,15 @@
 
 **Founder & CEO da [Chiarelli Labs](https://chiarelli.dev) · Engenheiro de Software**
 
-Construo produtos digitais e automações com **IA aplicada** — da arquitetura ao deploy, com usuários reais em produção. Atuo ponta a ponta: frontend, backend, infraestrutura, billing e observabilidade, sem depender de um time para cada camada.
+Construo produtos digitais e automações com **IA aplicada**, da arquitetura ao deploy, com usuários reais em produção. Atuo ponta a ponta: frontend, backend, infraestrutura, billing e observabilidade, sem depender de um time para cada camada.
 
 ---
 
 ## 🚀 O que estou construindo
 
-- **[Chiarelli Labs](https://chiarelli.dev)** — Software house de produtos digitais e automações com IA. Escopo, prazo e preço fechados antes de começar.
-- **[Pain to Product](https://paintoproduct.com)** — SaaS que transforma feedbacks, tickets e conversas em oportunidades de micro-SaaS ranqueadas, com plano de validação em 7 dias.
-- **[CertAI](https://cert-ai.dev)** — SaaS em PT-BR para certificações cloud AWS: simulado, detecção de fraqueza por subtópico, flashcards com repetição espaçada (SRS) e revisão no tempo certo.
+- **[Chiarelli Labs](https://chiarelli.dev)**: Software house de produtos digitais e automações com IA. Escopo, prazo e preço fechados antes de começar.
+- **[Pain to Product](https://paintoproduct.com)**: SaaS que transforma feedbacks, tickets e conversas em oportunidades de micro-SaaS ranqueadas, com plano de validação em 7 dias.
+- **[CertAI](https://cert-ai.dev)**: SaaS em PT-BR para certificações cloud AWS: simulado, detecção de fraqueza por subtópico, flashcards com repetição espaçada (SRS) e revisão no tempo certo.
 
 ---
 

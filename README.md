@@ -35,7 +35,7 @@ Construo produtos digitais e automações com **IA aplicada**, da arquitetura ao
 ## 💼 Experiência
 
 - **Founder & CEO — Chiarelli Labs** (2026 – presente)
-- **Automation Platform — Grupo QuintoAndar** (2025 – presente): automação de processos de compliance, integrações multi-sistema e RPA com IA.
+- **Automation Platform — Grupo QuintoAndar** (2025 – 2026): automação de processos de compliance, integrações multi-sistema e RPA com IA.
 
 ## 🎓 Formação
 
